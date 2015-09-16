@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 鹿母經
+#+DATE: 2015-08-30 19:34:20.324924
+#+PROPERTY: JUAN 0
